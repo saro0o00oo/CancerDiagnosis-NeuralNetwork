@@ -1,1 +1,2 @@
 # CancerDiagnosis-NeuralNetwork
+In this project we will be using Breast cancer wisconsin (diagnostic) dataset using keras api for Tensorflow. This is a classification problem. We will also be using early stopping and adding dropout layers to avoid overfitting.  
